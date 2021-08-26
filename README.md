@@ -1,8 +1,13 @@
 ### Olá! Eu sou o Humberto Luksevicius 👋
-
-- 🔭 Estou atualmente trabalhando na integração de prontuário clinico entre prestadores de saúde e a operadora de saúde "Omint".  
-As skills utilizadas são .Net 5.0, SQLServer e Vue.js
+- 🔭 Atualmente trabalho com backend, desenvolvendo um projeto que realiza a integração de prontuário clinico entre um prestador(Hospitais, clínicas e laboratórios) de saúde e uma operadora (Planos de saúde). Utilizo algums skills com .Net 5.0 (WebApi), SQLServer e Vue.js
 - 🌱 Estou atualmente aprimorando minhas skills de CSS e React.js realizando cursos na @rocketseat
+
+
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humbertolus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoluks&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luks-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
