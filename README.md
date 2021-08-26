@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Humberto Luksevicius 👋
-- 🔭 Atualmente trabalho com backend, desenvolvendo um projeto que realiza a integração de prontuário clinico entre um prestador (Hospitais, clínicas e laboratórios) de saúde e uma operadora (Planos de saúde). Utilizo algums skills como .Net 5.0 (WebApi), SQLServer e Vue.js
+- 🔭 Atualmente trabalho com backend, desenvolvendo um projeto que realiza a integração de prontuário clinico entre um prestador (Hospitais, clínicas e laboratórios) de saúde e uma operadora (Planos de saúde). Utilizo alguns skills como .Net 5.0 (WebApi), SQLServer e Vue.js
 - 🌱 Estou atualmente aprimorando meus skills de CSS e React.js realizando cursos na @rocketseat
 
 
